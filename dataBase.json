@@ -1,0 +1,40 @@
+{
+	"apartment":[
+    {
+        "cost": 1000000,
+        "location": "Центр",
+        "rooms": 1,
+        "square": 100.2
+    },
+    {
+        "cost": 1000000,
+        "location": "Окраина",
+        "rooms": 2,
+        "square": 50.2
+    },
+    {
+        "cost": 1000000,
+        "location": "Окраина",
+        "rooms": 3,
+        "square": 10.2
+    },
+    {
+        "cost": 10000,
+        "location": "Center",
+        "rooms": 3,
+        "square": 10.2
+    },
+    {
+        "cost": 10000000,
+        "location": "Center",
+        "rooms": 3,
+        "square": 75
+    },
+    {
+        "cost": 6000000,
+        "location": "Okraina",
+        "rooms": 2,
+        "square": 45
+    }
+]
+}

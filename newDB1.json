@@ -1,0 +1,22 @@
+{
+	"apartment":[
+    {
+        "cost": 5000000,
+        "location": "Центр",
+        "rooms": 2,
+        "square": 50
+    },
+    {
+        "cost": 5000000,
+        "location": "Центр",
+        "rooms": 2,
+        "square": 50
+    },
+    {
+        "cost": 5000000,
+        "location": "Центр",
+        "rooms": 2,
+        "square": 50
+    }
+]
+}
